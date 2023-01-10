@@ -1,0 +1,8 @@
+{
+    "name":"cb-rest-hmvd",
+    "web":{
+        "rewrites":{
+            "enable":true
+        }
+    }
+}
